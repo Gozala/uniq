@@ -54,4 +54,4 @@ function unique(list, compare, sorted) {
   return unique_eq(list)
 }
 
-module.exports = unique
+export default unique
